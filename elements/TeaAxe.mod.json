@@ -1,0 +1,34 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "axetea",
+    "customModelName": "Normal",
+    "name": "Tea Axe",
+    "specialInfo": [
+      "Test",
+      "Тест"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Teas"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 0,
+    "efficiency": 10.0,
+    "attackSpeed": 0.7,
+    "enchantability": 2,
+    "damageVsEntity": 3.9999999999999996,
+    "usageCount": 90,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:BlackTeaOreDust"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

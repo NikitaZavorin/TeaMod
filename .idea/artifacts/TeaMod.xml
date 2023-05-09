@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TeaMod">
+    <output-path>$PROJECT_DIR$/classes/artifacts/TeaMod</output-path>
+    <root id="archive" name="TeaMod.jar" />
+  </artifact>
+</component>

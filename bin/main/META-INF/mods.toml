@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="taskthree"
+version="1.0.0"
+displayName="TaskThree"
+credits="bestTeaMod"
+displayURL="https://mcreator.net"
+authors="Заворин"
+
+[[dependencies.taskthree]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

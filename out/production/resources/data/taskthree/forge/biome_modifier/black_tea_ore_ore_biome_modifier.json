@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "taskthree:black_tea_ore_ore",
+  "step": "underground_ores"
+}

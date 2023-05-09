@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "taskthree:black_tea_ore_ore"
+  },
+  "result": "taskthree:black_tea_ore_dust"
+}

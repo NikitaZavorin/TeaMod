@@ -1,0 +1,31 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "swordtea",
+    "customModelName": "Normal",
+    "name": "Black Tea Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Teas"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.7000000000000002,
+    "enchantability": 2,
+    "damageVsEntity": 5.2,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:BlackTeaOreDust"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 39,
+  "_type": "tab",
+  "definition": {
+    "name": "Teas",
+    "icon": {
+      "value": "CUSTOM:BlackTeaOreDust"
+    },
+    "showSearch": false
+  }
+}

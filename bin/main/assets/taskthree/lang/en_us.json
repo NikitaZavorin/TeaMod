@@ -1,0 +1,21 @@
+{
+  "gui.taskthree.tea_bag_gui.label_bag": "Tea",
+  "item.taskthree.black_armor_leggings": "Tea Leggings",
+  "item.taskthree.tea_axe": "Tea Axe",
+  "item.taskthree.black_tea_pickaxe": "Black Tea Pickaxe",
+  "gui.taskthree.tea_bag_gui.label_bag1": "Bag",
+  "block.taskthree.black_tea_ore_block": "Block of BlackTeaOre",
+  "item.taskthree.tea_bag": "Tea Bag",
+  "item.taskthree.black_armor_boots": "Tea Boots",
+  "item.taskthree.black_tea_ore_dust": "BlackTeaOre",
+  "block.taskthree.black_tea_ore_ore": "BlackTeaOre Ore",
+  "item.taskthree.black_tea_sword": "Black Tea Sword",
+  "gui.taskthree.gui.label_teabag": "TeaBag",
+  "block.taskthree.tea_flower": "Tea Flower",
+  "item.taskthree.black_armor_chestplate": "Tea Chestplate",
+  "advancements.achivment.title": "TeaOre",
+  "item.taskthree.black_armor_helmet": "Tea Helmet",
+  "gui.taskthree.tea_bag_gui.label_teabag": "Bag",
+  "itemGroup.tabteas": "Teas",
+  "advancements.achivment.descr": "Main TeaOre"
+}

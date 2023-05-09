@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "taskthree:black_tea_ore_dust"
+    },
+    "1": {
+      "item": "taskthree:black_tea_ore_dust"
+    },
+    "2": {
+      "item": "taskthree:black_tea_ore_dust"
+    },
+    "3": {
+      "item": "taskthree:black_tea_ore_dust"
+    }
+  },
+  "result": {
+    "item": "taskthree:black_tea_ore_block",
+    "count": 1
+  }
+}

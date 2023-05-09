@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "taskthree:black_tea_ore_dust"
+    },
+    "2": {
+      "item": "taskthree:black_tea_ore_dust"
+    },
+    "3": {
+      "item": "minecraft:wooden_axe"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "taskthree:black_tea_ore_dust"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "taskthree:tea_axe",
+    "count": 1
+  }
+}
