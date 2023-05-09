@@ -64,7 +64,7 @@ public class TaskthreeMod {
     public static void queueServerWork(int tick, Runnable action) {
         workQueue.add(new AbstractMap.SimpleEntry(action, tick));
     }
-
+//asd
     @SubscribeEvent
     public void tick(TickEvent.ServerTickEvent event) {
         if (event.phase == TickEvent.Phase.END) {
