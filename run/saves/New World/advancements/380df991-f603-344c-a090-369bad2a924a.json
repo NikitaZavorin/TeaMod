@@ -1,13 +1,13 @@
 {
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2023-05-09 21:03:24 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2023-05-09 21:03:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2023-05-09 21:03:24 +0300"
     },
     "done": true
   },
