@@ -1,13 +1,13 @@
 modLoader="javafml"
 loaderVersion="[43,)"
-license="Academic Free License v3.0"
+license="SSS"
 
 [[mods]]
 modId="taskthree"
 version="1.0.0"
 displayName="TaskThree"
 credits="bestTeaMod"
-displayURL="https://mcreator.net"
+displayURL="s"
 authors="Заворин"
 
 [[dependencies.taskthree]]

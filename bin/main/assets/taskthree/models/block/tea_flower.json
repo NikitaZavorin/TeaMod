@@ -1,8 +1,0 @@
-{
-  "parent": "block/tinted_cross",
-  "textures": {
-    "cross": "taskthree:blocks/flower",
-    "particle": "taskthree:blocks/flower"
-  },
-  "render_type": "cutout"
-}

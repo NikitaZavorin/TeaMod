@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "taskthree:blocks/blackteaoreblock",
-    "particle": "taskthree:blocks/blackteaoreblock"
-  },
-  "render_type": "solid"
-}

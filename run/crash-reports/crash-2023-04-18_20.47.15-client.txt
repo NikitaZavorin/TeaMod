@@ -10,7 +10,7 @@ java.lang.RuntimeException: Slot 15 not in valid range - [0,15)
 	at net.minecraftforge.items.SlotItemHandler.getItem(SlotItemHandler.java:40) ~[forge-1.19.2-43.2.0_mapped_official_1.19.2-recomp.jar%23182%23189!/:?] {re:classloading}
 	at net.minecraft.client.gui.screens.inventory.AbstractContainerScreen.renderSlot(AbstractContainerScreen.java:202) ~[forge-1.19.2-43.2.0_mapped_official_1.19.2-recomp.jar%23183!/:?] {re:classloading,pl:runtimedistcleaner:A}
 	at net.minecraft.client.gui.screens.inventory.AbstractContainerScreen.render(AbstractContainerScreen.java:108) ~[forge-1.19.2-43.2.0_mapped_official_1.19.2-recomp.jar%23183!/:?] {re:classloading,pl:runtimedistcleaner:A}
-	at net.mcreator.taskthree.client.gui.GUIScreen.render(GUIScreen.java:40) ~[%23188!/:?] {re:classloading}
+	at net.elo.taskthree.client.gui.GUIScreen.render(GUIScreen.java:40) ~[%23188!/:?] {re:classloading}
 	at net.minecraftforge.client.ForgeHooksClient.drawScreenInternal(ForgeHooksClient.java:440) ~[forge-1.19.2-43.2.0_mapped_official_1.19.2-recomp.jar%23182%23189!/:?] {re:classloading}
 	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:433) ~[forge-1.19.2-43.2.0_mapped_official_1.19.2-recomp.jar%23182%23189!/:?] {re:classloading}
 	at net.minecraft.client.renderer.GameRenderer.render(GameRenderer.java:896) ~[forge-1.19.2-43.2.0_mapped_official_1.19.2-recomp.jar%23183!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
@@ -44,12 +44,12 @@ Stacktrace:
 	at net.minecraftforge.items.SlotItemHandler.getItem(SlotItemHandler.java:40) ~[forge-1.19.2-43.2.0_mapped_official_1.19.2-recomp.jar%23182%23189!/:?] {re:classloading}
 	at net.minecraft.client.gui.screens.inventory.AbstractContainerScreen.renderSlot(AbstractContainerScreen.java:202) ~[forge-1.19.2-43.2.0_mapped_official_1.19.2-recomp.jar%23183!/:?] {re:classloading,pl:runtimedistcleaner:A}
 	at net.minecraft.client.gui.screens.inventory.AbstractContainerScreen.render(AbstractContainerScreen.java:108) ~[forge-1.19.2-43.2.0_mapped_official_1.19.2-recomp.jar%23183!/:?] {re:classloading,pl:runtimedistcleaner:A}
-	at net.mcreator.taskthree.client.gui.GUIScreen.render(GUIScreen.java:40) ~[%23188!/:?] {re:classloading}
+	at net.elo.taskthree.client.gui.GUIScreen.render(GUIScreen.java:40) ~[%23188!/:?] {re:classloading}
 	at net.minecraftforge.client.ForgeHooksClient.drawScreenInternal(ForgeHooksClient.java:440) ~[forge-1.19.2-43.2.0_mapped_official_1.19.2-recomp.jar%23182%23189!/:?] {re:classloading}
 	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:433) ~[forge-1.19.2-43.2.0_mapped_official_1.19.2-recomp.jar%23182%23189!/:?] {re:classloading}
 -- Screen render details --
 Details:
-	Screen name: net.mcreator.taskthree.client.gui.GUIScreen
+	Screen name: net.elo.taskthree.client.gui.GUIScreen
 	Mouse location: Scaled: (240, 135). Absolute: (960.000000, 540.000000)
 	Screen size: Scaled: (480, 270). Absolute: (1920, 1080). Scale factor of 4.000000
 Stacktrace:
