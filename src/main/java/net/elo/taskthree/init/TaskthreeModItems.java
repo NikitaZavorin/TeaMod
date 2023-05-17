@@ -1,7 +1,3 @@
-
-/*
- *    MCreator note: This file will be REGENERATED on each build.
- */
 package net.elo.taskthree.init;
 
 import net.minecraftforge.registries.RegistryObject;
@@ -13,7 +9,6 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.BlockItem;
 
-import net.elo.taskthree.item.TeaBagItem;
 import net.elo.taskthree.item.TeaAxeItem;
 import net.elo.taskthree.item.BlackTeaSwordItem;
 import net.elo.taskthree.item.BlackTeaPickaxeItem;
@@ -34,7 +29,7 @@ public class TaskthreeModItems {
 	public static final RegistryObject<Item> BLACK_ARMOR_CHESTPLATE = REGISTRY.register("black_armor_chestplate", () -> new BlackArmorItem.Chestplate());
 	public static final RegistryObject<Item> BLACK_ARMOR_LEGGINGS = REGISTRY.register("black_armor_leggings", () -> new BlackArmorItem.Leggings());
 	public static final RegistryObject<Item> BLACK_ARMOR_BOOTS = REGISTRY.register("black_armor_boots", () -> new BlackArmorItem.Boots());
-	public static final RegistryObject<Item> TEA_BAG = REGISTRY.register("tea_bag", () -> new TeaBagItem());
+	//public static final RegistryObject<Item> TEA_BAG = REGISTRY.register("tea_bag", () -> new TeaBagItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));
